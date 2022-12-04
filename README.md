@@ -1,2 +1,6 @@
-# m1kh4il's projects
-my website, contains all of my scripts to use, plus other scripts.
+# melted cheese hub
+a script hub for roblox, mostly fps games
+
+```lua
+loadstring(game:HttpGet("https://cheeeeeeesy.github.io/MCH.lua", true))()
+```
